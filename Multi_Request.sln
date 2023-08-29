@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multi_Request", "Multi_Request\Multi_Request.csproj", "{4E62757E-4681-4F17-99F8-39BA480D403C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genrate_Token", "Genrate_Token\Genrate_Token.csproj", "{B7DFDF7A-E90D-4EB1-9DE6-F242A668986F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E62757E-4681-4F17-99F8-39BA480D403C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E62757E-4681-4F17-99F8-39BA480D403C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E62757E-4681-4F17-99F8-39BA480D403C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E62757E-4681-4F17-99F8-39BA480D403C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DFDF7A-E90D-4EB1-9DE6-F242A668986F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DFDF7A-E90D-4EB1-9DE6-F242A668986F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DFDF7A-E90D-4EB1-9DE6-F242A668986F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DFDF7A-E90D-4EB1-9DE6-F242A668986F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4252E708-1FB0-4B25-B09D-7007FDC14FB3}
+	EndGlobalSection
+EndGlobal
